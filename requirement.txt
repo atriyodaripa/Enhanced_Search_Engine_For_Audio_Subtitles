@@ -1,4 +1,8 @@
 transformers
 pandas
 notebook
+langchain
+langchain-community
+langchain_text_splitters
+langchain-google-genai
 -e .
