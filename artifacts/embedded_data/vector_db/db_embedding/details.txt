@@ -1,0 +1,1 @@
+this location will contain the chroma db of the vector embeddings
