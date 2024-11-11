@@ -1,8 +1,17 @@
 transformers
+torch
+joblib
+sentence_transformers
+chromadb
+streamlit
+streamlit-audiorecorder
 pandas
 notebook
 langchain
 langchain-community
 langchain_text_splitters
 langchain-google-genai
+sounddevice
+librosa
+soundfile
 -e .
