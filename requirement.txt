@@ -10,6 +10,7 @@ notebook
 langchain
 langchain-community
 langchain_text_splitters
+langchain_huggingface
 langchain-google-genai
 sounddevice
 librosa

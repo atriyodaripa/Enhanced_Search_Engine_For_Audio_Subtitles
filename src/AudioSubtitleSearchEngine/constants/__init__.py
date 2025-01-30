@@ -13,7 +13,7 @@ DECODED_SUBTITLES_DIRECTORY = 'artifacts\\decoded_input'
 
 CLEANED_SUBTITLES_DIRECTORY = 'artifacts\\cleaned_data\\'
 
-MODEL_NAME = 'sentence-transformers/all-MiniLM-L6-v2'
+MODEL_NAME = 'all-MiniLM-L6-v2'
 VECTOR_DB_PATH = 'artifacts\\embedded_data\\vector_db\\db_embedding'
 
 
