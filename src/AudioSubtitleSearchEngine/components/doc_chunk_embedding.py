@@ -63,7 +63,7 @@ class DocChunker:
                                       persist_directory=vector_db_path,
                                       collection_name="eng_subtitles")
         
-        logger.info(f"Insertion into ChromaDB collection complete for {i} dataframe")
+        logger.info(f"Insertion into ChromaDB collection complete")
         return self.chroma_db
 
 
